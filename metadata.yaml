@@ -1,0 +1,30 @@
+_repo: Vogels-van-diverse-pluimage_17554
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vosmaer, Carel
+    alias: Flanor
+    birthdate: 1826
+    deathdate: 1888
+    gutenberg_agent_id: '7466'
+    url: http://www.gutenberg.org/2009/agents/7466
+    wikipedia:
+    - http://nl.wikipedia.org/wiki/Carel_Vosmaer
+    - http://en.wikipedia.org/wiki/Carel_Vosmaer
+description: ''
+gutenberg_issued: '2006-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17554'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Dutch literature'
+title: Vogels van diverse pluimage
+url: http://www.gutenberg.org/ebooks/17554
