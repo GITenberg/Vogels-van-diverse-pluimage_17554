@@ -15,6 +15,8 @@ creator:
     - http://nl.wikipedia.org/wiki/Carel_Vosmaer
     - http://en.wikipedia.org/wiki/Carel_Vosmaer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17554#Vogels-van-diverse-pluimage
 gutenberg_issued: '2006-01-23'
 gutenberg_type: Text
 identifiers:
